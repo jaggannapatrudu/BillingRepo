@@ -1,0 +1,164 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - text: 
+      - banner [ref=e4]:
+        - link "Automation Practice Site" [ref=e7] [cursor=pointer]:
+          - /url: https://practice.automationtesting.in
+          - img "Automation Practice Site" [ref=e8]
+        - generic:
+          - generic:
+            - generic:
+              - generic: 
+              - textbox "Search" [ref=e9]
+          - navigation:
+            - list [ref=e10]:
+              - listitem [ref=e11]:
+                - link "Shop" [ref=e12] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/shop/
+              - listitem [ref=e13]:
+                - link "My Account" [ref=e14] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/my-account/
+              - listitem [ref=e15]:
+                - link "Test Cases" [ref=e16] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/test-cases/
+              - listitem [ref=e17]:
+                - link "AT Site" [ref=e18] [cursor=pointer]:
+                  - /url: http://automationtesting.in/
+              - listitem [ref=e19]:
+                - link "Demo Site" [ref=e20] [cursor=pointer]:
+                  - /url: http://demo.automationtesting.in/Register.html
+              - listitem [ref=e21]:
+                - link " 0 items -₹0.00" [ref=e22] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/shop/
+                  - generic [ref=e23]: 
+                  - generic [ref=e24]: 0 items
+                  - generic [ref=e25]: "-₹0.00"
+        - link "" [ref=e26] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e32]:
+      - list [ref=e33]:
+        - text: 
+        - listitem [ref=e34]:
+          - strong [ref=e35]: "Error:"
+          - text: The password you entered for the username
+          - strong [ref=e36]: Ricky_Prohaska14@hotmail.com
+          - text: is incorrect.
+          - link "Lost your password?" [ref=e37] [cursor=pointer]:
+            - /url: https://practice.automationtesting.in/my-account/lost-password/
+      - generic [ref=e38]:
+        - generic [ref=e39]:
+          - heading "Login" [level=2] [ref=e40]
+          - generic [ref=e41]:
+            - paragraph [ref=e42]:
+              - generic [ref=e43]: Username or email address *
+              - textbox "Username or email address *" [ref=e44]: Ricky_Prohaska14@hotmail.com
+            - paragraph [ref=e45]:
+              - generic [ref=e46]: Password *
+              - textbox "Password *" [active] [ref=e47]
+            - paragraph [ref=e48]:
+              - button "Login" [ref=e49] [cursor=pointer]
+              - generic [ref=e50]:
+                - checkbox "Remember me" [ref=e51]
+                - text: Remember me
+            - paragraph [ref=e52]:
+              - link "Lost your password?" [ref=e53] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/my-account/lost-password/
+        - generic [ref=e54]:
+          - heading "Register" [level=2] [ref=e55]
+          - generic [ref=e56]:
+            - paragraph [ref=e57]:
+              - generic [ref=e58]: Email address *
+              - textbox "Email address *" [ref=e59]
+            - paragraph [ref=e60]:
+              - generic [ref=e61]: Password *
+              - textbox "Password *" [ref=e62]
+            - generic [ref=e63]:
+              - text: Anti-spam
+              - textbox "Anti-spam" [ref=e64]
+            - paragraph [ref=e65]:
+              - button "Register" [ref=e66] [cursor=pointer]
+    - generic:
+      - insertion:
+        - iframe [ref=e68]:
+          
+    - contentinfo [ref=e70]:
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - link "Site Logo" [ref=e77] [cursor=pointer]:
+            - /url: http://practice.automationtesting.in/
+            - img "Site Logo" [ref=e78]
+          - list [ref=e80]:
+            - listitem [ref=e81]:
+              - link "" [ref=e82] [cursor=pointer]:
+                - /url: https://twitter.com/krishnasakinala
+                - generic [ref=e83]: 
+            - listitem [ref=e84]:
+              - link "" [ref=e85] [cursor=pointer]:
+                - /url: https://www.facebook.com/automationtesting2016/
+                - generic [ref=e86]: 
+            - listitem [ref=e87]:
+              - link "" [ref=e88] [cursor=pointer]:
+                - /url: https://plus.google.com/105286300926085335367
+                - generic [ref=e89]: 
+            - listitem [ref=e90]:
+              - link "" [ref=e91] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+                - generic [ref=e92]: 
+            - listitem [ref=e93]:
+              - link "" [ref=e94] [cursor=pointer]:
+                - /url: https://www.linkedin.com/nhome/?trk=hb_signin
+                - generic [ref=e95]: 
+        - insertion [ref=e99]:
+          - generic [ref=e102]:
+            - heading "Estos son temas relacionados con el artículo que podrían interesarte" [level=2] [ref=e104]: Ver más
+            - link "Comprar vitaminas y suplementos" [ref=e105] [cursor=pointer]:
+              - generic "Comprar vitaminas y suplementos" [ref=e106]
+              - img [ref=e108]
+            - link "Salud" [ref=e110] [cursor=pointer]:
+              - generic "Salud" [ref=e111]
+              - img [ref=e113]
+            - link "ciencias" [ref=e115] [cursor=pointer]:
+              - generic "ciencias" [ref=e116]
+              - img [ref=e118]
+        - insertion [ref=e123]:
+          - generic [ref=e126]:
+            - heading "Estos son temas relacionados con el artículo que podrían interesarte" [level=2] [ref=e128]: Ver más
+            - link "Ciencia" [ref=e129] [cursor=pointer]:
+              - generic "Ciencia" [ref=e130]
+              - img [ref=e132]
+            - link "Ciencias" [ref=e134] [cursor=pointer]:
+              - generic "Ciencias" [ref=e135]
+              - img [ref=e137]
+            - link "Comprar vitaminas y suplementos" [ref=e139] [cursor=pointer]:
+              - generic "Comprar vitaminas y suplementos" [ref=e140]
+              - img [ref=e142]
+        - generic [ref=e145]:
+          - heading "Subscribe Here" [level=4] [ref=e146]
+          - generic [ref=e148]:
+            - paragraph [ref=e149]:
+              - textbox "Your email address" [ref=e150]
+            - paragraph [ref=e151]:
+              - button "Subscribe" [ref=e152] [cursor=pointer]
+      - generic [ref=e155]:
+        - text: ©
+        - link "Automation Practice Site" [ref=e156] [cursor=pointer]:
+          - /url: https://practice.automationtesting.in
+        - text: "2026"
+  - insertion [ref=e157]:
+    - iframe [ref=e160]:
+      - generic [active]:
+        - generic [ref=f76e2]:
+          - link "Advertisement" [ref=f76e4] [cursor=pointer]:
+            - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsvAEvZSF71DJeflt6WHiDLen0PJz-TT-b3OMoxZgcfcPcSeWkC_acoAkYdtaS0u-rnGY7FIJ9Jvu1lDXZbVoLn5uETLl-FFrDz_Dz9-Zk3Wk0JJlk_650Yq_UV7jRBCL6BahBckoudzoSRxIYAeOsCHOFMrhZCMfitRbQuWm5MQIcNo6OQIotRTs70gu3eNKU9ULXPdcbvlzvotRoFzdfEV6Q1fm05nco269BDu196aB0K5813XRPB0dzaVBlj_qgwUwbXeQpwnFlzOJD9rkcz1zlgqIBY0_wNv8mo9Hu9yZy1bfP2SMt8UGnkwhFQfIWjpbxxUlFZjPfingXhI9VGZOQZ52Q0MJLN1R76ynBJd1tME53zNn1jajv2JT2PMsRGC88HfgsCoWntxcyey7GnQkWIrg_YiODR79ZuMZ-aqu02xgICJKwmClSNrzfwzHoScPBEiXsepZvZHx9l6zkVRY3dhpe9WJ4zOEpmNtYDIcb8DyZTap_DoxHpEiAGJTuYJZ4gLkDQanUwYcpueRo43hHN7byt34sbMOVYCiRquPYE1cL4Vzmb-mtdGerMLkhaV9JBxSs7-uGcsgMcoyIrJcHIPwejqVc7qCCnPBOBMAOLdcr7gzUIkZvbIK36TM2OC5F9nEKaJKlkaorxHItOvI_yYXO7EgIT4gd3BhBZKxAvMvm1d5JHXw_LysQDEfUrwSexsir7pwAYWzRvHnNgL734J45WYO3vw25dCTKZVvVtT_EPvL9ukJl_id_FuATy6eUkmKljhqdPQDOma3NJA9a2tkg3HMSk1TqFSUl58LFSMVrIhU_E3q21ocQBU4oyNo1sULqOBwGNjUUOzDfjfSFDXLUGh2LwdMZFx404NuS5NKuA9b8Nej5bNRlW6qooEN6kDcpG-eXBeZqkUWp1--s_kTbKq98UJ8Tk6zOgJ6CR3UKTUuULAslX_rAxmdaCloLcC4gtmL8LhwOHnETb8kAB82AzoA3xeUcKjaxcK98U0z3V2sKBGwMBQSpymZnPu9jketYqBQkUbbGp85R3UrQ19ful_qfvMRu7d5ATfYsZCD4FM3v1uNBIJZtnUdbgGxvrEn1IgwDAENvVTzNbS9JOYntR3ihWE5YEwfveIAQqcR-QY5tu28eF92cZVZwsc_C30BIXIMEnC9nLoBSBJfo004IjUJ-Xer3avMVGMc1DiteIHehaQDMGcwctueZeIR_ZAbROCBzFqOARiLrcyszLx61N6Qzox9uE6Ld19Wza0odB5WtY6TiZmAk42290kFc22DdOFs0O-Jx63vN4wspFY62vc9YsDpthgz7jx_fd7a_RAHlhQv6uBHxDDZN0c8m4rdSzrE5FG6GR8p8uFFJufvfD2Hj7DoxCMtT5aadhuuV8K7Gv3HExmr0QzjpQLkQsdKs5rVTvbbp1hFoym2Yxbl4ZWhRwd1gZA-LwVhOabqkgzpV-kdMNpnp54jSkUBVZ2cxtrTnk3lRTcG_MMmFe1iMosajpxWCRFYuZ61w2we8JsMkCWBYxi40ndj0nbO3WEddQKGhmGJEiMDGgEAnWxmlobUncIHMN3mQImgAlwJ0IsfmbZfyaGKmFgF-hTdrs3EbMLq5M5t9NoV1-DaqCOP5IWhM5eLL8E3lWsXBRoIWL4TR6PdgE09u8ZX6yC4n6afUNS7JZJqfnO0HzvtfhpmkR4DGfHA3rLLm3NPeMlSjFv98z5zWk8Jq3SQfM742yD94kw6qbTg4ZF19K4Up_ZFJu8oHzqobRMIlaj949VWOuebPoutdVuVQtNCgO4c7-qlBbGPSGHoLXbmouWJfZ7OfYmE5vtMpuKrap8WzJC9lr39PtTpLTszdme5HVITgnUK__yopVQgIsy-LjM37TbpckLk8TIPz_qhYxXdELwzR9_6F1v54O5XHZBkFdSkSShmBE&sai=AMfl-YSyv8Xa-ozm4g97ttxT6CQjENol3_TcId2mz1lbunVUwqxnHiNRG0Cc8HU3puGJdzI91GJzdDpVgEbaaOTWAvLN8gSF3hhcwWNMq-t0vXXuQpXsnlQv5j9y0klBLlP8MaJeHXqdqTqmRmCS-BArHlJfDgl9nUvUARyhGF_vyMEacsaQXtAjv7NUQsowNPZMPMNHzmdgZg2JDJlKozGZeLYUunHLkNGMzddujePR8wcCMCYDhKvo35Poa6RF_L3F3edWDrARrhkeF0X4lS77kqw0n7uOymYQA0D8IRg2BC72tZe68G2BVZqrUogoVwLKpvNM0ly5hKMjECfaPK83NYyjlRJ3breQsELZqMo3-pIMjFgAEOsWtSYsoW2OI_npAOshWH309GifpRuVGhOzHlp8XtxVVuupTcivJ5fPHxjd66-KpYsCXnYbcAxsTuPYsveKAZM7pc8tY9fCDl6plLBN57XD5GEMYM8qRcZV-YWcG-F0j-zoy6kmwPEZP7QtDuroqBGF2pi2OT2qjHTWGIXNROVvwB9qgSPXhquT5_yg5B0U5ROhin1aYEyhk8yJf59oRC79WGGdA6x43x61c7Sv7HIWOrMTIQts26GVfL-QRjVuSSs__wDFej4baLvoubVyKP1DHCqOdQ&sig=Cg0ArKJSzPr2mVKXMgNK&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9zaWdtYWFsZHJpY2guY29t&urlfix=1&adurl=https://www.sigmaaldrich.com/GB/en/products/analytical-chemistry/analytical-chromatography/hplc-columns%3Futm_source%3Ddbm%26utm_medium%3Dcpm%26utm_campaign%3DMRK_SLS_MR_Application%2BDriven%2BAlwaysOn_Paid%2BMedia_eCommerce_TID000001620%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D22205977115
+            - img "Advertisement" [ref=f76e5]
+          - generic [ref=f76e6]:
+            - generic:
+              - img [ref=f76e10] [cursor=pointer]
+              - button [ref=f76e12] [cursor=pointer]:
+                - img [ref=f76e13]
+        - iframe
+```

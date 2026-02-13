@@ -1,0 +1,114 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - text: 
+    - banner [ref=e4]:
+      - link "Automation Practice Site" [ref=e7] [cursor=pointer]:
+        - /url: https://practice.automationtesting.in
+        - img "Automation Practice Site" [ref=e8]
+      - generic:
+        - generic:
+          - generic:
+            - generic: 
+            - textbox "Search" [ref=e9]
+        - navigation:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "Shop" [ref=e12] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/shop/
+            - listitem [ref=e13]:
+              - link "My Account" [ref=e14] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/my-account/
+            - listitem [ref=e15]:
+              - link "Test Cases" [ref=e16] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/test-cases/
+            - listitem [ref=e17]:
+              - link "AT Site" [ref=e18] [cursor=pointer]:
+                - /url: http://automationtesting.in/
+            - listitem [ref=e19]:
+              - link "Demo Site" [ref=e20] [cursor=pointer]:
+                - /url: http://demo.automationtesting.in/Register.html
+            - listitem [ref=e21]:
+              - link " 0 items -₹0.00" [ref=e22] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/shop/
+                - generic [ref=e23]: 
+                - generic [ref=e24]: 0 items
+                - generic [ref=e25]: "-₹0.00"
+      - link "" [ref=e26] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - heading "Login" [level=2] [ref=e35]
+      - generic [ref=e36]:
+        - paragraph [ref=e37]:
+          - generic [ref=e38]: Username or email address *
+          - textbox "Username or email address *" [ref=e39]
+        - paragraph [ref=e40]:
+          - generic [ref=e41]: Password *
+          - textbox "Password *" [ref=e42]
+        - paragraph [ref=e43]:
+          - button "Login" [ref=e44] [cursor=pointer]
+          - generic [ref=e45]:
+            - checkbox "Remember me" [ref=e46]
+            - text: Remember me
+        - paragraph [ref=e47]:
+          - link "Lost your password?" [ref=e48] [cursor=pointer]:
+            - /url: https://practice.automationtesting.in/my-account/lost-password/
+    - generic [ref=e49]:
+      - heading "Register" [level=2] [ref=e50]
+      - generic [ref=e51]:
+        - paragraph [ref=e52]:
+          - generic [ref=e53]: Email address *
+          - textbox "Email address *" [ref=e54]
+        - paragraph [ref=e55]:
+          - generic [ref=e56]: Password *
+          - textbox "Password *" [ref=e57]
+        - generic [ref=e58]:
+          - text: Anti-spam
+          - textbox "Anti-spam" [ref=e59]
+        - paragraph [ref=e60]:
+          - button "Register" [ref=e61] [cursor=pointer]
+  - contentinfo [ref=e63]:
+    - generic [ref=e66]:
+      - generic [ref=e67]:
+        - link "Site Logo" [ref=e70] [cursor=pointer]:
+          - /url: http://practice.automationtesting.in/
+          - img "Site Logo" [ref=e71]
+        - list [ref=e73]:
+          - listitem [ref=e74]:
+            - link "" [ref=e75] [cursor=pointer]:
+              - /url: https://twitter.com/krishnasakinala
+              - generic [ref=e76]: 
+          - listitem [ref=e77]:
+            - link "" [ref=e78] [cursor=pointer]:
+              - /url: https://www.facebook.com/automationtesting2016/
+              - generic [ref=e79]: 
+          - listitem [ref=e80]:
+            - link "" [ref=e81] [cursor=pointer]:
+              - /url: https://plus.google.com/105286300926085335367
+              - generic [ref=e82]: 
+          - listitem [ref=e83]:
+            - link "" [ref=e84] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+              - generic [ref=e85]: 
+          - listitem [ref=e86]:
+            - link "" [ref=e87] [cursor=pointer]:
+              - /url: https://www.linkedin.com/nhome/?trk=hb_signin
+              - generic [ref=e88]: 
+      - insertion [ref=e92]
+      - insertion [ref=e96]
+      - generic [ref=e98]:
+        - heading "Subscribe Here" [level=4] [ref=e99]
+        - generic [ref=e101]:
+          - paragraph [ref=e102]:
+            - textbox "Your email address" [ref=e103]
+          - paragraph [ref=e104]:
+            - button "Subscribe" [ref=e105] [cursor=pointer]
+    - generic [ref=e108]:
+      - text: ©
+      - link "Automation Practice Site" [ref=e109] [cursor=pointer]:
+        - /url: https://practice.automationtesting.in
+      - text: "2026"
+```

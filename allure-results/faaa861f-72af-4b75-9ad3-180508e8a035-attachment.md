@@ -1,0 +1,191 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - text: 
+    - banner [ref=e4]:
+      - link "Automation Practice Site" [ref=e7] [cursor=pointer]:
+        - /url: https://practice.automationtesting.in
+        - img "Automation Practice Site" [ref=e8]
+      - generic:
+        - generic:
+          - generic:
+            - generic: 
+            - textbox "Search" [ref=e9]
+        - navigation:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "Shop" [ref=e12] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/shop/
+            - listitem [ref=e13]:
+              - link "My Account" [ref=e14] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/my-account/
+            - listitem [ref=e15]:
+              - link "Test Cases" [ref=e16] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/test-cases/
+            - listitem [ref=e17]:
+              - link "AT Site" [ref=e18] [cursor=pointer]:
+                - /url: http://automationtesting.in/
+            - listitem [ref=e19]:
+              - link "Demo Site" [ref=e20] [cursor=pointer]:
+                - /url: http://demo.automationtesting.in/Register.html
+            - listitem [ref=e21]:
+              - link " 0 items -₹0.00" [ref=e22] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/shop/
+                - generic [ref=e23]: 
+                - generic [ref=e24]: 0 items
+                - generic [ref=e25]: "-₹0.00"
+      - link "" [ref=e26] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e32]:
+    - paragraph [ref=e33]: Thank you. Your order has been received.
+    - list [ref=e34]:
+      - listitem [ref=e35]:
+        - text: "Order Number:"
+        - strong [ref=e36]: "33558"
+      - listitem [ref=e37]:
+        - text: "Date:"
+        - strong [ref=e38]: February 12, 2026
+      - listitem [ref=e39]:
+        - text: "Total:"
+        - strong [ref=e40]:
+          - generic [ref=e41]: ₹35,700.00
+      - listitem [ref=e42]:
+        - text: "Payment Method:"
+        - strong [ref=e43]: Direct Bank Transfer
+    - paragraph [ref=e44]: Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won’t be shipped until the funds have cleared in our account.
+    - heading "Our Bank Details" [level=2] [ref=e45]
+    - list
+    - heading "Order Details" [level=2] [ref=e46]
+    - table [ref=e47]:
+      - rowgroup [ref=e48]:
+        - row "Product Total" [ref=e49]:
+          - columnheader "Product" [ref=e50]
+          - columnheader "Total" [ref=e51]
+      - rowgroup [ref=e52]:
+        - row "Mastering JavaScript × 100 ₹35,000.00" [ref=e53]:
+          - cell "Mastering JavaScript × 100" [ref=e54]:
+            - link "Mastering JavaScript" [ref=e55] [cursor=pointer]:
+              - /url: https://practice.automationtesting.in/product/mastering-javascript/
+            - strong [ref=e56]: × 100
+          - cell "₹35,000.00" [ref=e57]:
+            - generic [ref=e58]: ₹35,000.00
+      - rowgroup [ref=e59]:
+        - 'row "Subtotal: ₹35,000.00" [ref=e60]':
+          - rowheader "Subtotal:" [ref=e61]
+          - cell "₹35,000.00" [ref=e62]:
+            - generic [ref=e63]: ₹35,000.00
+        - 'row "Tax: ₹700.00" [ref=e64]':
+          - rowheader "Tax:" [ref=e65]
+          - cell "₹700.00" [ref=e66]:
+            - generic [ref=e67]: ₹700.00
+        - 'row "Payment Method: Direct Bank Transfer" [ref=e68]':
+          - rowheader "Payment Method:" [ref=e69]
+          - cell "Direct Bank Transfer" [ref=e70]
+        - 'row "Total: ₹35,700.00" [ref=e71]':
+          - rowheader "Total:" [ref=e72]
+          - cell "₹35,700.00" [ref=e73]:
+            - generic [ref=e74]: ₹35,700.00
+    - insertion [ref=e76]:
+      - generic [ref=e79]:
+        - heading "Estos son temas relacionados con el artículo que podrían interesarte" [level=2] [ref=e81]: Ver más
+        - link "Salud" [ref=e82] [cursor=pointer]:
+          - generic "Salud" [ref=e83]
+          - img [ref=e85]
+        - link "Ciencias" [ref=e87] [cursor=pointer]:
+          - generic "Ciencias" [ref=e88]
+          - img [ref=e90]
+        - link "ciencias" [ref=e92] [cursor=pointer]:
+          - generic "ciencias" [ref=e93]
+          - img [ref=e95]
+    - banner [ref=e97]:
+      - heading "Customer Details" [level=2] [ref=e98]
+    - table [ref=e99]:
+      - rowgroup [ref=e100]:
+        - 'row "Note: order notes" [ref=e101]':
+          - rowheader "Note:" [ref=e102]
+          - cell "order notes" [ref=e103]
+        - 'row "Email: rhea77@hotmail.com" [ref=e104]':
+          - rowheader "Email:" [ref=e105]
+          - cell "rhea77@hotmail.com" [ref=e106]
+        - 'row "Telephone: +16355910329" [ref=e107]':
+          - rowheader "Telephone:" [ref=e108]
+          - cell "+16355910329" [ref=e109]
+    - banner [ref=e110]:
+      - heading "Billing Address" [level=3] [ref=e111]
+    - generic [ref=e112]:
+      - text: Hoppe and Sons
+      - text: Hobart Dach
+      - text: 9381 Karli Walk
+      - text: "90485"
+      - text: Kaylitown - 86368
+      - text: Andhra Pradesh
+  - generic:
+    - insertion:
+      - iframe [ref=e114]:
+        
+  - contentinfo [ref=e116]:
+    - generic [ref=e119]:
+      - generic [ref=e120]:
+        - link "Site Logo" [ref=e123] [cursor=pointer]:
+          - /url: http://practice.automationtesting.in/
+          - img "Site Logo" [ref=e124]
+        - list [ref=e126]:
+          - listitem [ref=e127]:
+            - link "" [ref=e128] [cursor=pointer]:
+              - /url: https://twitter.com/krishnasakinala
+              - generic [ref=e129]: 
+          - listitem [ref=e130]:
+            - link "" [ref=e131] [cursor=pointer]:
+              - /url: https://www.facebook.com/automationtesting2016/
+              - generic [ref=e132]: 
+          - listitem [ref=e133]:
+            - link "" [ref=e134] [cursor=pointer]:
+              - /url: https://plus.google.com/105286300926085335367
+              - generic [ref=e135]: 
+          - listitem [ref=e136]:
+            - link "" [ref=e137] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+              - generic [ref=e138]: 
+          - listitem [ref=e139]:
+            - link "" [ref=e140] [cursor=pointer]:
+              - /url: https://www.linkedin.com/nhome/?trk=hb_signin
+              - generic [ref=e141]: 
+      - insertion [ref=e145]:
+        - generic [ref=e148]:
+          - heading "Estos son temas relacionados con el artículo que podrían interesarte" [level=2] [ref=e150]: Ver más
+          - link "Ciencias" [ref=e151] [cursor=pointer]:
+            - generic "Ciencias" [ref=e152]
+            - img [ref=e154]
+          - link "Salud" [ref=e156] [cursor=pointer]:
+            - generic "Salud" [ref=e157]
+            - img [ref=e159]
+          - link "ciencias" [ref=e161] [cursor=pointer]:
+            - generic "ciencias" [ref=e162]
+            - img [ref=e164]
+      - insertion [ref=e169]:
+        - generic [ref=e172]:
+          - heading "Estos son temas relacionados con el artículo que podrían interesarte" [level=2] [ref=e174]: Ver más
+          - link "ciencias" [ref=e175] [cursor=pointer]:
+            - generic "ciencias" [ref=e176]
+            - img [ref=e178]
+          - link "Ciencias" [ref=e180] [cursor=pointer]:
+            - generic "Ciencias" [ref=e181]
+            - img [ref=e183]
+          - link "Salud" [ref=e185] [cursor=pointer]:
+            - generic "Salud" [ref=e186]
+            - img [ref=e188]
+      - generic [ref=e191]:
+        - heading "Subscribe Here" [level=4] [ref=e192]
+        - generic [ref=e194]:
+          - paragraph [ref=e195]:
+            - textbox "Your email address" [ref=e196]
+          - paragraph [ref=e197]:
+            - button "Subscribe" [ref=e198] [cursor=pointer]
+    - generic [ref=e201]:
+      - text: ©
+      - link "Automation Practice Site" [ref=e202] [cursor=pointer]:
+        - /url: https://practice.automationtesting.in
+      - text: "2026"
+```

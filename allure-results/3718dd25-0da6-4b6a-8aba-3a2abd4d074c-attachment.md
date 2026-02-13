@@ -1,0 +1,159 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - text: 
+      - banner [ref=e4]:
+        - link "Automation Practice Site" [ref=e7] [cursor=pointer]:
+          - /url: https://practice.automationtesting.in
+          - img "Automation Practice Site" [ref=e8]
+        - generic:
+          - generic:
+            - generic:
+              - generic: 
+              - textbox "Search" [ref=e9]
+          - navigation:
+            - list [ref=e10]:
+              - listitem [ref=e11]:
+                - link "Shop" [ref=e12] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/shop/
+              - listitem [ref=e13]:
+                - link "My Account" [ref=e14] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/my-account/
+              - listitem [ref=e15]:
+                - link "Test Cases" [ref=e16] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/test-cases/
+              - listitem [ref=e17]:
+                - link "AT Site" [ref=e18] [cursor=pointer]:
+                  - /url: http://automationtesting.in/
+              - listitem [ref=e19]:
+                - link "Demo Site" [ref=e20] [cursor=pointer]:
+                  - /url: http://demo.automationtesting.in/Register.html
+              - listitem [ref=e21]:
+                - link " 0 items -₹0.00" [ref=e22] [cursor=pointer]:
+                  - /url: https://practice.automationtesting.in/shop/
+                  - generic [ref=e23]: 
+                  - generic [ref=e24]: 0 items
+                  - generic [ref=e25]: "-₹0.00"
+        - link "" [ref=e26] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=e33]:
+      - generic [ref=e34]:
+        - heading "Login" [level=2] [ref=e35]
+        - generic [ref=e36]:
+          - paragraph [ref=e37]:
+            - generic [ref=e38]: Username or email address *
+            - textbox "Username or email address *" [ref=e39]
+          - paragraph [ref=e40]:
+            - generic [ref=e41]: Password *
+            - textbox "Password *" [ref=e42]
+          - paragraph [ref=e43]:
+            - button "Login" [ref=e44] [cursor=pointer]
+            - generic [ref=e45]:
+              - checkbox "Remember me" [ref=e46]
+              - text: Remember me
+          - paragraph [ref=e47]:
+            - link "Lost your password?" [ref=e48] [cursor=pointer]:
+              - /url: https://practice.automationtesting.in/my-account/lost-password/
+      - generic [ref=e49]:
+        - heading "Register" [level=2] [ref=e50]
+        - generic [ref=e51]:
+          - paragraph [ref=e52]:
+            - generic [ref=e53]: Email address *
+            - textbox "Email address *" [ref=e54]: Della_Kuhlman@yahoo.com
+          - paragraph [ref=e55]:
+            - generic [ref=e56]: Password *
+            - textbox "Password *" [ref=e57]: EENllnzEhcaHE2k41%#$
+          - generic [ref=e59]:
+            - text: Anti-spam
+            - textbox "Anti-spam" [ref=e60]
+          - paragraph [ref=e61]:
+            - button "Register" [disabled] [ref=e62]
+    - contentinfo [ref=e64]:
+      - generic [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - link "Site Logo" [ref=e71] [cursor=pointer]:
+              - /url: http://practice.automationtesting.in/
+              - img "Site Logo" [ref=e72]
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - link "" [ref=e76] [cursor=pointer]:
+                  - /url: https://twitter.com/krishnasakinala
+                  - generic [ref=e77]: 
+              - listitem [ref=e78]:
+                - link "" [ref=e79] [cursor=pointer]:
+                  - /url: https://www.facebook.com/automationtesting2016/
+                  - generic [ref=e80]: 
+              - listitem [ref=e81]:
+                - link "" [ref=e82] [cursor=pointer]:
+                  - /url: https://plus.google.com/105286300926085335367
+                  - generic [ref=e83]: 
+              - listitem [ref=e84]:
+                - link "" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+                  - generic [ref=e86]: 
+              - listitem [ref=e87]:
+                - link "" [ref=e88] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/nhome/?trk=hb_signin
+                  - generic [ref=e89]: 
+          - insertion [ref=e93]:
+            - generic [ref=e96]:
+              - heading "Estos son temas relacionados con el artículo que podrían interesarte" [level=2] [ref=e98]: Ver más
+              - link "Ciencias" [ref=e99] [cursor=pointer]:
+                - generic "Ciencias" [ref=e100]
+                - img [ref=e102]
+              - link "ciencias" [ref=e104] [cursor=pointer]:
+                - generic "ciencias" [ref=e105]
+                - img [ref=e107]
+              - link "Salud" [ref=e109] [cursor=pointer]:
+                - generic "Salud" [ref=e110]
+                - img [ref=e112]
+          - insertion [ref=e117]:
+            - generic [ref=e120]:
+              - heading "Estos son temas relacionados con el artículo que podrían interesarte" [level=2] [ref=e122]: Ver más
+              - link "ciencias" [ref=e123] [cursor=pointer]:
+                - generic "ciencias" [ref=e124]
+                - img [ref=e126]
+              - link "Salud" [ref=e128] [cursor=pointer]:
+                - generic "Salud" [ref=e129]
+                - img [ref=e131]
+              - link "Ciencias" [ref=e133] [cursor=pointer]:
+                - generic "Ciencias" [ref=e134]
+                - img [ref=e136]
+          - generic [ref=e139]:
+            - heading "Subscribe Here" [level=4] [ref=e140]
+            - generic [ref=e142]:
+              - paragraph [ref=e143]:
+                - textbox "Your email address" [ref=e144]
+              - paragraph [ref=e145]:
+                - button "Subscribe" [ref=e146] [cursor=pointer]
+        - generic:
+          - insertion:
+            - iframe [ref=e148]:
+              
+      - generic [ref=e151]:
+        - text: ©
+        - link "Automation Practice Site" [ref=e152] [cursor=pointer]:
+          - /url: https://practice.automationtesting.in
+        - text: "2026"
+  - generic:
+    - insertion:
+      - iframe [ref=e154]:
+        
+  - insertion [ref=e155]:
+    - iframe [ref=e158]:
+      - generic [active]:
+        - generic [ref=f32e2]:
+          - link "Advertisement" [ref=f32e4] [cursor=pointer]:
+            - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjsvbCmZiciPbJLDOOtjXhvfp487jwFdOCvoLfVPHDIQL2fM-_YxLWwxUmP-oFw7OmZW9c4tU1ijwJFelZvUaIPfXAbE8RkCs-JxTwshEwTJLsCZ2Y8w2_YTLqZgnNJp4jMEYti6FXwJMDGU1qp5A1Gc_FVJpe9mUWccDKEQySAN7OfTcTSRbk7QUm4H5yEuiLxVqasDmI8S4gzVOp3KBOYra5u-zBRpP36g1pJuSxzyKU0WywCVXRATvu-q1FsLSMrEStPSpXoNY2CKBF2ib57iSx29erk6vb4EXp959GdB_lK6oZRMX4h3xux5k8vcZi78htO8RTOQHFyuXA0dUIM0fZxxJ5uSet3MnDBsb1-Rbwi2kMOk8GKzfJ5ORtSG2_EhLTCfv2r0MtH9cS81d8xsK72IdHFHPeSIhmPHALvlA9gqBaJcz4uaDvFijUib5ONYeErQnCuzQLOQ9Cpie9jCvcd5XWCJPW1MBqgXLa00_CXYrGk6ug0l6ZiGY3wyPSTJdCA6g9q_l12KtSyPKXkDYmsiaqmkeRj7xJMGokoacgmpPWT8cINCo5ACKXYyZjiiZnc27nKKcU3szWlRB-cwzFmNhbDOMOlhS4voPt3CCqEnllr43tSi-44-95u0ZNgfGo0XgT0yiZ68SqFo_PP9G0Sgxi-xGuZghysktXfktFPzsTHOBxABDtjbT6C92lCTufzxYHobNMbnMVc2dLQUpT3oU8_0lET4aOGgqiQibQkhWDzPqNZyhIm4wZXYJu6Mp2ti8dLxaoL7K502fTBKhjPtXCfcqsnJcnVhE9I9p01LzKoPfOIljWaRbej5yuYDKz4ChZ4a1GEqq4ORe4BdzYYsrWKpAiWEuq1zOeEjZCcYj28P1cFrWAeXojT-inx_AYbdvzUPOwp15sB7XSVCDnUcPMqUz5SCU8g-YIvUyG6MBZGKJP-whnC6VIVxRc2gu5rtpAm9MYCwTOQ4NImIUBgqPbv6NC_ttXe-eEpRORmmo2nPB26sjHlR3h9KuYhYT0ONarD3Wh0uSPBRWZXhklpcyacNqShQtoBfz32KO6cawJ_6Px_tXyfIBJsqvMOX3CwX7tcTfvfGDJDDCXLbAO_9TnU_MAC9GJv2U3UMezxIB6QpONrY2EXxxRaWA-1hdDQa550wdsbEu9eg9KxK3tmDIOGa5GhrpH704uG5SXrbAYeDRG-CufKwBpmfLJ7NbpIFjR7PIWyLB_Kgs2gCKLdW-MFZ4w7ofLbj4EgRrSCrCJdjskB6GCK6HYNhzNFqPNJwggN8ZGMN7Kbi3AGo3M6b73Z0Cm7nFYLUhCrfvIZBnCPByMp150b0-kBi8ovM6Ti5IAGayX_nl4cuJO5mt-exqI-c5mkZN95vkPjeyWAmKO1ae6chpv4wD-6YwfcaVqiZnMvENZoFPZ0xrLPMKkaeufmkCtEH8XVwTs7U7xE-2gf8BXghWhjsmlju5qzdH1OTT8gmYhDBKann3760QrS3sr729UOXbR878IH0SKCp2rB5bh57SndOpnes2W9rvGWkJepkG1OwxghvZ2jJS8Brvp2QdJDTvFEYCWdDNRCOiabwmvJgRWfaYOgaf2X2Aa44rIDwO1VUgfigvN7QHH9T2dC8SGrV8NHoqRZPPVUlPyek_He61tMKvKnweqXnBJtlg7p2QOCdFJnn4E6rJa3nLBCGKzfLDt89-2K9Vgf11kv-BToRzcvaweBcjQSjDlG7Dx91Z-NgajXfe4w2TFgGkSNGgbzlkANcpeKIskI7twhoUjrTEa6La87GIByvFTktZwit6cS0UbH804qDlBNZBT9gWA4LAJN4FzuacSwdQWTiRwPn1KcHIbEgfrplf880lJCYBiE2HS9tdjwzaCpZqos7pNE6xSx0oVEPiCb_FVw0se9pSGcuTbIqC1lgBSf1k3kvBjxq6emaOwsXTpNknU_8oVZx2f9iAKLEnzw&sai=AMfl-YQV9FMP57dHn612OiMHJZdOKoAnP_yhi1NukmLeZM2GsHv4rY49mmeLEqgdBSG14Ibl4XnBYRiX_Xf8HEXDg6n3SzCI3mOo1t_tnFTtYqXh-CjBAALHxoZRFdcDXVplW7RLn3uDdqCLz-SxIxIcgfUO9u7f474BCe3aH1dORUMhCJ8_rkrpHsZfusPAskDvOoHR57wXvazjon-WoRi7PTGHYItn2to_9b0S40Kmp1F734TEVI2z8H7hZCiNDZQv4G-LGLPXEg3btucksDrmCutZs14sBYrf09VFgZpo90zBIFbX5t89Aj85bABZVck4mOjETAh5w927RHOG8UGE82qOVOkm_YaZF6HR04ECOjie90UCgs1F3Mc686XA3XBN50Al6j_wuI4YFPBcXX3_x3gJQnnK8zNu7KtZt5nPEzBLV4h8mVnf76_MCXb17FP14w8hgHri2DX5zWa9U44EQfRGlr2V9IFpi5T6C7fYIhSM9Y4M0g9gVLtvN8GQ1s2yFzoXo4Qh7MgUHpP_wurEFYw6Zfie0WDPLFGGP8dnJkURJ1otD38CIMUaf0OT8kSLEEImtQeyyvaVGNOjwyVZG82ncuE-N0aHp2MlWUzyigi5XNYIu5Jt_QBtfLyU0_iz8HZUvJrv6tNNYj52&sig=Cg0ArKJSzPx3vJtx1NJF&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9zaWdtYWFsZHJpY2guY29t&urlfix=1&adurl=https://www.sigmaaldrich.com/GB/en/products/analytical-chemistry/reference-materials/certified-reference-materials%3Futm_source%3Ddbm%26utm_medium%3Dcpm%26utm_campaign%3DMRK_SLS_MR_Application%2BDriven%2BAlwaysOn_Paid%2BMedia_eCommerce_TID000001620%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D22205977115
+            - img "Advertisement" [ref=f32e5]
+          - generic [ref=f32e6]:
+            - generic:
+              - img [ref=f32e10] [cursor=pointer]
+              - button [ref=f32e12] [cursor=pointer]:
+                - img [ref=f32e13]
+        - iframe
+```

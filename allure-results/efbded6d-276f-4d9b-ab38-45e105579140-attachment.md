@@ -1,0 +1,149 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - text: 
+    - banner [ref=e4]:
+      - link "Automation Practice Site" [ref=e7] [cursor=pointer]:
+        - /url: https://practice.automationtesting.in
+        - img "Automation Practice Site" [ref=e8]
+      - generic:
+        - generic:
+          - generic:
+            - generic: 
+            - textbox "Search" [ref=e9]
+        - navigation:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "Shop" [ref=e12] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/shop/
+            - listitem [ref=e13]:
+              - link "My Account" [ref=e14] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/my-account/
+            - listitem [ref=e15]:
+              - link "Test Cases" [ref=e16] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/test-cases/
+            - listitem [ref=e17]:
+              - link "AT Site" [ref=e18] [cursor=pointer]:
+                - /url: http://automationtesting.in/
+            - listitem [ref=e19]:
+              - link "Demo Site" [ref=e20] [cursor=pointer]:
+                - /url: http://demo.automationtesting.in/Register.html
+            - listitem [ref=e21]:
+              - link " 0 items -₹0.00" [ref=e22] [cursor=pointer]:
+                - /url: https://practice.automationtesting.in/shop/
+                - generic [ref=e23]: 
+                - generic [ref=e24]: 0 items
+                - generic [ref=e25]: "-₹0.00"
+      - link "" [ref=e26] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - heading "Login" [level=2] [ref=e35]
+      - generic [ref=e36]:
+        - paragraph [ref=e37]:
+          - generic [ref=e38]: Username or email address *
+          - textbox "Username or email address *" [ref=e39]
+        - paragraph [ref=e40]:
+          - generic [ref=e41]: Password *
+          - textbox "Password *" [ref=e42]
+        - paragraph [ref=e43]:
+          - button "Login" [ref=e44] [cursor=pointer]
+          - generic [ref=e45]:
+            - checkbox "Remember me" [ref=e46]
+            - text: Remember me
+        - paragraph [ref=e47]:
+          - link "Lost your password?" [ref=e48] [cursor=pointer]:
+            - /url: https://practice.automationtesting.in/my-account/lost-password/
+    - generic [ref=e49]:
+      - heading "Register" [level=2] [ref=e50]
+      - generic [ref=e51]:
+        - paragraph [ref=e52]:
+          - generic [ref=e53]: Email address *
+          - textbox "Email address *" [ref=e54]: Antone.Ward45@hotmail.com
+        - paragraph [ref=e55]:
+          - generic [ref=e56]: Password *
+          - textbox "Password *" [active] [ref=e57]: EYu9IMHv497b9yN84%#$
+          - generic [ref=e58]: Strong
+        - generic [ref=e59]:
+          - text: Anti-spam
+          - textbox "Anti-spam" [ref=e60]
+        - paragraph [ref=e61]:
+          - button "Register" [ref=e62] [cursor=pointer]
+  - contentinfo [ref=e64]:
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - link "Site Logo" [ref=e71] [cursor=pointer]:
+          - /url: http://practice.automationtesting.in/
+          - img "Site Logo" [ref=e72]
+        - list [ref=e74]:
+          - listitem [ref=e75]:
+            - link "" [ref=e76] [cursor=pointer]:
+              - /url: https://twitter.com/krishnasakinala
+              - generic [ref=e77]: 
+          - listitem [ref=e78]:
+            - link "" [ref=e79] [cursor=pointer]:
+              - /url: https://www.facebook.com/automationtesting2016/
+              - generic [ref=e80]: 
+          - listitem [ref=e81]:
+            - link "" [ref=e82] [cursor=pointer]:
+              - /url: https://plus.google.com/105286300926085335367
+              - generic [ref=e83]: 
+          - listitem [ref=e84]:
+            - link "" [ref=e85] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCmQRa3pWM9zsB474URz8ESg
+              - generic [ref=e86]: 
+          - listitem [ref=e87]:
+            - link "" [ref=e88] [cursor=pointer]:
+              - /url: https://www.linkedin.com/nhome/?trk=hb_signin
+              - generic [ref=e89]: 
+      - insertion [ref=e93]:
+        - generic [ref=e95]:
+          - generic "Estos son temas relacionados con el artículo que podrían interesarte" [ref=e96]: Ver más
+          - link "Comprar vitaminas y suplementos" [ref=e97] [cursor=pointer]:
+            - img [ref=e99]
+            - text: Comprar vitaminas y suplementos
+          - link "Ciencias" [ref=e101] [cursor=pointer]:
+            - img [ref=e103]
+            - text: Ciencias
+          - link "Salud" [ref=e105] [cursor=pointer]:
+            - img [ref=e107]
+            - text: Salud
+          - link "Ciencia" [ref=e109] [cursor=pointer]:
+            - img [ref=e111]
+            - text: Ciencia
+          - link "ciencias" [ref=e113] [cursor=pointer]:
+            - img [ref=e115]
+            - text: ciencias
+      - insertion [ref=e120]:
+        - generic [ref=e122]:
+          - generic "Estos son temas relacionados con el artículo que podrían interesarte" [ref=e123]: Ver más
+          - link "Ciencia" [ref=e124] [cursor=pointer]:
+            - img [ref=e126]
+            - text: Ciencia
+          - link "ciencias" [ref=e128] [cursor=pointer]:
+            - img [ref=e130]
+            - text: ciencias
+          - link "Salud" [ref=e132] [cursor=pointer]:
+            - img [ref=e134]
+            - text: Salud
+          - link "Comprar vitaminas y suplementos" [ref=e136] [cursor=pointer]:
+            - img [ref=e138]
+            - text: Comprar vitaminas y suplementos
+          - link "Ciencias" [ref=e140] [cursor=pointer]:
+            - img [ref=e142]
+            - text: Ciencias
+      - generic [ref=e145]:
+        - heading "Subscribe Here" [level=4] [ref=e146]
+        - generic [ref=e148]:
+          - paragraph [ref=e149]:
+            - textbox "Your email address" [ref=e150]
+          - paragraph [ref=e151]:
+            - button "Subscribe" [ref=e152] [cursor=pointer]
+    - generic [ref=e155]:
+      - text: ©
+      - link "Automation Practice Site" [ref=e156] [cursor=pointer]:
+        - /url: https://practice.automationtesting.in
+      - text: "2026"
+```
