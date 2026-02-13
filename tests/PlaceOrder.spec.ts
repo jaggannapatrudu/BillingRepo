@@ -16,7 +16,6 @@ test('Place order', async({page, homepage, addtobasketpage, basketpage, paymentG
     await orderconfirmatioPage.orderDetailsVerification()
      await stepWithScreenshot(page,"order verification")
     await page.waitForTimeout(10000)
-    ////////////////
-   page.reload({waitUntil:'domcontentloaded'})
+    
 
 })
